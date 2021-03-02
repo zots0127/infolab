@@ -6,8 +6,9 @@ widget: hero
 widget_id: "1"
 headless: true
 weight: 10
-title: Wowchemy Research Group
+title: Info Lab Group
 subtitle: ""
+active: true
 design:
   columns: "1"
   background:
