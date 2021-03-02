@@ -35,7 +35,7 @@ education:
       year: 2008
 superuser: true
 user_groups:
-  - Researchers
+  - Students
 highlight_name: false
 title: Bojun Wang
 email: ""
