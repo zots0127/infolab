@@ -11,7 +11,7 @@ authors:
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: eldor.jpeg
   focal_point: Smart
   preview_only: false
 date: 2021-04-12T18:10:30.191Z
