@@ -7,6 +7,7 @@ authors:
   - S El-Sappagh
   - T Abuhmed
   - KS Kwak
+doi: 10.1016/j.neucom.2020.05.087
 draft: false
 featured: false
 image:
