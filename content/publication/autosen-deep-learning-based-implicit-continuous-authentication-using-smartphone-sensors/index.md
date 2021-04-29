@@ -4,10 +4,11 @@ title: "AUToSen: Deep-Learning-Based Implicit Continuous Authentication Using
 publication_types:
   - "2"
 authors:
-  - M Abuhamad
-  - T Abuhmed
-  - D Mohaisen
-  - DH Nyang
+  - Mohammed Abuhamad
+  - Tamer Abuhmed
+  - David Mohaisen
+  - DaeHun Nyang
+date: "2020-02-24T00:00:00Z"
 doi: 10.1109/JIOT.2020.2975779
 publication: IEEE Internet of Things Journal 7 (6), 5008-5020
 abstract: Smartphones have become crucial for our daily life activities and are
@@ -37,6 +38,7 @@ abstract: Smartphones have become crucial for our daily life activities and are
   authentication models under various settings and learning architectures.
 draft: false
 featured: false
+url_pdf: https://infolab.skku.edu/publication/09007368.pdf
 image:
   filename: featured
   focal_point: Smart
