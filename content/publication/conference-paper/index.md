@@ -1,5 +1,5 @@
 ---
-title: "Robust hybrid deep learning models for Alzheimers progress ion detection"
+title: "Conference example"
 authors:
 - Tamer Abuhmed
 - Shaker El-Sappagh
