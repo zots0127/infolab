@@ -2,7 +2,7 @@
 title: Alzheimer Disease Prediction Model Based on Decision Fusion of CNN-BiLSTM
   Deep Neural Networks
 publication_types:
-  - "2"
+  - "1"
 authors:
   - S El-Sappagh
   - T Abuhmed
