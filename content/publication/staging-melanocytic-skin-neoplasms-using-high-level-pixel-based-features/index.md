@@ -7,6 +7,7 @@ authors:
   - S El-Sappagh
   - T Abuhmed
   - M Elmogy
+doi: 10.3390/electronics9091443
 draft: false
 featured: false
 image:
