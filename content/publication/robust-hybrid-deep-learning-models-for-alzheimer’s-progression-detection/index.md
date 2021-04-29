@@ -6,6 +6,7 @@ authors:
   - T Abuhmed
   - S El-Sappagh
   - JM Alonso
+doi: 10.1016/j.knosys.2020.106688
 draft: false
 featured: false
 image:
