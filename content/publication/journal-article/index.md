@@ -1,11 +1,9 @@
 ---
-title: "An example journal article"
+title: "Robust hybrid deep learning models for Alzheimers progress ion detection"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- Tamer Abuhmed
+- Shaker El-Sappagh
+- Jose M Alonso
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
@@ -19,10 +17,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Knowledge-Based Systems Journal, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The prevalence of Alzheimer’s disease (AD) in the growing elderly population makes accurately predicting AD progression crucial. Due to AD’s complex etiology and pathogenesis, an effective and medically practical solution is a challenging task. In this paper, we developed and evaluated two novel hybrid deep learning architectures for AD progression detection. These models are based on the fusion of multiple deep bidirectional long short-term memory (BiLSTM) models. The first architecture is an interpretable multitask regression model that predicts seven crucial cognitive scores for the patient 2.5 years after their last observations. The predicted scores are used to build an interpretable clinical decision support system based on a glass-box model. This architecture aims to explore the role of multitasking models in producing more stable, robust, and accurate results. The second architecture is a hybrid model where the deep features extracted from the BiLSTM model are used to train multiple machine learning classifiers. The two architectures were comprehensively evaluated using different time series modalities of 1371 subjects participated in the study of the Alzheimer’s disease neuroimaging initiative (ADNI). The extensive, real-world experimental results over ADNI data help establish the effectiveness and practicality of the proposed deep learning models.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -44,7 +42,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
